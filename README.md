@@ -1,4 +1,4 @@
-<img src="Project_Bus/images/logo.jpeg" alt="Alt text" title="Optional title">
+<img src="Project_Bus/images/Bus Ticket Reservation System-logos_black.png" alt="Alt text" title="Optional title">
 <!-- Project_Bus/images/logo.jpeg -->
 
 # Project_Bus
