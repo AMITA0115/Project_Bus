@@ -24,3 +24,7 @@
 - Passenger can view its booking history.
 
 ## **ER Diagram**
+
+<img src="Project_Bus/images/er-diagram.jpeg" alt="Alt text" title="Optional title">
+
+
