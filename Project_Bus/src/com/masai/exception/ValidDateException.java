@@ -1,0 +1,15 @@
+package com.masai.exception;
+
+
+
+public class ValidDateException extends Exception{
+	
+	public ValidDateException() {
+		
+	}
+	
+	public ValidDateException(String message) {
+		super(message);
+	}
+}
+
